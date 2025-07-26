@@ -1,2 +1,3 @@
-intro to numpy, pandas, matplotlib
+intro to numpy, pandas, matplotlib,
+
 Dog breed classifier
